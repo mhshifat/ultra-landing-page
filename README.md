@@ -8,10 +8,7 @@ link: [https://ultra-landing-page.netlify.app/](https://ultra-landing-page.netli
 
 ### Technologies Used
 
-- NodeJS
-- MongoDB
-- EJS
-- Socket.IO
+- ReactJS
 
 ### License
 
